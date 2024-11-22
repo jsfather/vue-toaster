@@ -1,6 +1,7 @@
 {
   "name": "vue-toaster",
   "version": "0.0.0",
+  "main": "dist/index.html",
   "private": false,
   "type": "module",
   "scripts": {
